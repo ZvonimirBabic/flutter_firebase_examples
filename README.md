@@ -1,16 +1,5 @@
 # flutter_firebase_examples
 
-Flutter project that implements firebase functionalities
+Flutter project that implements firebase functionalities. Purpose of this project is to implement all of the popular firebase functionalities in a single application
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![firebase_functionalities](https://user-images.githubusercontent.com/57459616/230761451-298a04db-717a-459e-8333-4d42f4f18a43.png)
